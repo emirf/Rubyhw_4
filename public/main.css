@@ -1,0 +1,86 @@
+/*body {
+	background-color: #FFFFF6;
+}*/
+
+body {
+	/*background-color: #C8DEDE;*/
+	background-color: #FFFFFF;
+}
+
+.tbDivs1 {
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	padding-top: 10px;
+	border-top: none;
+}
+
+/*h1, h2 {
+	color: #4F0411;
+	font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+}*/
+
+h1, h2 {
+	color: #242424;
+	font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+}
+
+
+.nav {
+	padding-top: 7px;
+	padding-bottom: 7px;
+	border-style: solid;
+	border-right: none;
+	border-left: none;
+	border-width: 1px;
+	border-color: #8C8C8C;
+}
+
+.wrapper {
+
+	width: 480px;
+	margin: 0 auto;
+
+	/* Aids in centering nav bar
+
+	border-style: dashed;
+	border-color: #283968;
+	border-width: 2px; 								*/
+}
+
+li {
+	list-style-type: none;
+	display: inline;
+	font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+}
+
+
+a:link, a:visited {
+	text-decoration: none;
+	text-transform: lowercase;
+	/*color: #203316;*/
+	color: #4A4C48;
+	font-weight: bold;
+	padding: 0px 20px 0px 20px;
+	font-size: 115%;
+	word-wrap: normal;
+}
+
+a:hover, a:active {
+	/*color: #B0CBC0;*/
+	color: #000;
+}
+
+.tbDivs2 {
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	padding-top: 10px;
+	border-color: #8C8C8C;
+}
